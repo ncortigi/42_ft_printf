@@ -35,6 +35,6 @@ ft_printf("Ciao %s! Il numero è %d\n", "mondo", 42);
 
 ## Licenza 📄
 
-Questo progetto è realizzato per scopi educativi presso la Scuola 42.
+Questo progetto è realizzato per scopi educativi presso la Scuola 42 Firenze.
 
 Buon coding! 💻
